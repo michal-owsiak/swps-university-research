@@ -1,6 +1,5 @@
 ﻿<div align="center">
     <img src="public/swps_logo.png" width="1800" alt="SWPS University logotype">
-    <h1><strong>A study of Poles' psychedelic and non-psychedelic mystical experiences in relation to fear of death, emotional empathy, and life satisfaction</strong></h1>
 </div>
 
 ## **A study of Poles' psychedelic and non-psychedelic mystical experiences in relation to fear of death, emotional empathy, and life satisfaction**
