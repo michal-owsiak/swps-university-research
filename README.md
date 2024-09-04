@@ -3,6 +3,8 @@
     <h1><strong>A study of Poles' psychedelic and non-psychedelic mystical experiences in relation to fear of death, emotional empathy, and life satisfaction</strong></h1>
 </div>
 
+## **A study of Poles' psychedelic and non-psychedelic mystical experiences in relation to fear of death, emotional empathy, and life satisfaction**
+
 This repository contains a [Jupyter Notebook](https://github.com/michal-owsiak/research-on-psychedelic-and-non-psychedelic-mystical-experiences/blob/main/research.ipynb) that recreates the analysis from a master’s thesis conducted at SWPS University. The original study, performed using **IBM SPSS Statistics**, explores the relationship between psychedelic use and so called mystical experiences with the following variables:
 
 - Fear of death
