@@ -24,7 +24,7 @@ The Jupyter Notebook provides a `Python`-based approach to replicate the analysi
 
 ## **Data collection and tools used**
 
-(_The dataset is openly available courtesy of Mendeley Data: [https://data.mendeley.com/datasets/bhkb7zmb9v/1](https://data.mendeley.com/datasets/bhkb7zmb9v/1)_)
+Data source: Owsiak, M. (2025). Dataset - Psychedelic and Non-Psychedelic Mystical Experiences in Polish Adults. [https://doi.org/10.17632/bhkb7zmb9v.1](https://doi.org/10.17632/bhkb7zmb9v.1)
 
 The dataset was collected through an online survey distributed from February 17, 2023, to March 29, 2023. It includes:
 
