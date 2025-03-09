@@ -24,7 +24,7 @@ The Jupyter Notebook provides a `Python`-based approach to replicate the analysi
 
 ## **Data collection and tools used**
 
-(_Dataset available with an open access courtesy of Mendeley Data: [https://data.mendeley.com/datasets/bhkb7zmb9v/1](https://data.mendeley.com/datasets/bhkb7zmb9v/1)_)
+(_The dataset is openly available courtesy of Mendeley Data: [https://data.mendeley.com/datasets/bhkb7zmb9v/1](https://data.mendeley.com/datasets/bhkb7zmb9v/1)_)
 
 The dataset was collected through an online survey distributed from February 17, 2023, to March 29, 2023. It includes:
 
