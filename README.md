@@ -24,6 +24,8 @@ The Jupyter Notebook provides a `Python`-based approach to replicate the analysi
 
 ## **Data collection and tools used**
 
+(_Dataset available with an open access courtesy of Mendeley Data: [https://data.mendeley.com/datasets/bhkb7zmb9v/1](https://data.mendeley.com/datasets/bhkb7zmb9v/1)_)
+
 The dataset was collected through an online survey distributed from February 17, 2023, to March 29, 2023. It includes:
 
 - **Demographic Metrics:** Basic information such as age, gender, education, and spiritual worldview.
