@@ -24,7 +24,7 @@ The Jupyter Notebook provides a `Python`-based approach to replicate the analysi
 
 ## **Data collection and tools used**
 
-Data source: Owsiak, M. (2025). Dataset - Psychedelic and Non-Psychedelic Mystical Experiences in Polish Adults. [https://doi.org/10.17632/bhkb7zmb9v.1](https://doi.org/10.17632/bhkb7zmb9v.1)
+_Data source_: Owsiak, M. (2025). Dataset - Psychedelic and Non-Psychedelic Mystical Experiences in Polish Adults. [https://doi.org/10.17632/bhkb7zmb9v.1](https://doi.org/10.17632/bhkb7zmb9v.1)
 
 The dataset was collected through an online survey distributed from February 17, 2023, to March 29, 2023. It includes:
 
@@ -88,7 +88,3 @@ The results of the study were visualized as bar plots. For this purpose, `Matplo
 **Results:** Complete mystical experiences were significantly linked with lower fear of death, higher life satisfaction, and greater overall and positive-emotional empathy. Psychedelic users exhibited fear of death lower than non-users, with no significant effects on overall emotional empathy or life satisfaction. The users group also demonstrated significantly lower negative-emotional empathy than non-users.
 
 **Conclusions:** While causal inference cannot be drawn from this study, it suggests that mystical experiences, regardless of their trigger, may potentially mitigate death anxiety, enhance life satisfaction, and foster a greater inclination to share positive emotions with others.
-
-## **Authorship**
-
-The original research was performed and presented repository was created by Michał Owsiak. The author declares no potential conflicts of interest with respect to the research, authorship, and/or publication of this repository.
