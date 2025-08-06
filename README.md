@@ -42,9 +42,8 @@ The collected dataset was then processed and analyzed using following technologi
 
 **Languages, frameworks and environments:**
 ```
-> Jupyter Notebook
 > Python
-> IPython
+> Jupyter Notebook
 > Markdown
 ```
 **Libraries and packages:**
@@ -56,6 +55,7 @@ The collected dataset was then processed and analyzed using following technologi
 > pingouin
 > Matplotlib
 > seaborn
+> IPython
 ```
 
 
