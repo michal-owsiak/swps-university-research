@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-﻿<div align="center">
+<div align="center">
     <img src="public/swps_logo.png" width="1800" alt="SWPS University logotype">
 </div>
 
-## **A study of Poles' psychedelic and non-psychedelic mystical experiences in relation to fear of death, emotional empathy, and life satisfaction**
+## **Psychedelic and non-psychedelic mystical-type altered states of consciousness: Associations with fear of death, empathy, and life satisfaction in Polish adults**
 
 
 
