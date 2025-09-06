@@ -2,7 +2,7 @@
     <img src="public/swps_logo.png" width="1800" alt="SWPS University logotype">
 </div>
 
-## **A study of Poles' psychedelic and non-psychedelic mystical experiences in relation to fear of death, emotional empathy, and life satisfaction**
+## **Psychedelic and non-psychedelic mystical-type altered states of consciousness: Associations with fear of death, empathy, and life satisfaction in Polish adults**
 
 
 
@@ -88,3 +88,4 @@ The results of the study were visualized as bar plots. For this purpose, `Matplo
 **Results:** Complete mystical experiences were significantly linked with lower fear of death, higher life satisfaction, and greater overall and positive-emotional empathy. Psychedelic users exhibited fear of death lower than non-users, with no significant effects on overall emotional empathy or life satisfaction. The users group also demonstrated significantly lower negative-emotional empathy than non-users.
 
 **Conclusions:** While causal inference cannot be drawn from this study, it suggests that mystical experiences, regardless of their trigger, may potentially mitigate death anxiety, enhance life satisfaction, and foster a greater inclination to share positive emotions with others.
+
